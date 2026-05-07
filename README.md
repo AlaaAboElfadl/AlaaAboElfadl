@@ -28,21 +28,15 @@
 
 ---
 
-# 👨‍💻 About Me
+ About Me
 
 AI Student passionate about ML | DL | Data Science and building intelligent solutions and turning ideas into real-world projects.
 
----
 
-# 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
 ---
 
