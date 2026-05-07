@@ -1,5 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/AlaaAboElfadl)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Alaa%20Abo%20Elfadl&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 <h1 align="center">Alaa Abo Elfadl</h1>
 <h3 align="center">AI Student | Machine Learning Enthusiast | Tech Explorer</h3>
 
