@@ -49,7 +49,7 @@ I love solving problems, learning new technologies and turning ideas into real-w
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
-# GitHub Stats
+ GitHub Stats
 
 <div align="center">
 
@@ -62,6 +62,6 @@ I love solving problems, learning new technologies and turning ideas into real-w
 
 <div align="center">
 
-### ✨ Keep Learning, Keep Building, Keep Growing. ✨
+✨ Keep Learning, Keep Building, Keep Growing. ✨
 
 </div>
