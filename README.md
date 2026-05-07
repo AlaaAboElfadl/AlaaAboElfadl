@@ -42,13 +42,7 @@ Languages
 
 Technologies
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
  GitHub Stats
