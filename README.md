@@ -1,41 +1,70 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/AlaaAboElfadl)
-<h1 align="center">Alaa Abo Elfadl</h1>
-<h3 align="center">AI Student | Machine Learning Enthusiast | Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AlaaAboElfadl">
-    <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"/>
-  </a>
+# Alaa Abo Elfadl
 
-  <a href="https://www.linkedin.com/in/alaa-aboelfadl-3b974b371">
-    <img src="https://img.icons8.com/ios-filled/60/ffffff/linkedin.png"/>
-  </a>
-</p>
+### AI Student | Machine Learning Enthusiast | Tech Explorer
 
----
+<br>
 
-### Languages
+<a href="https://github.com/AlaaAboElfadl">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+<a href="https://www.linkedin.com/in/alaa-aboelfadl-3b974b371">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Technologies
+<a href="https://t.me/USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+</div>
 
 ---
 
-### GitHub Stats
+# 👨‍💻 About Me
 
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlaaAboElfadl&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+AI Student passionate about Machine Learning, Deep Learning and building intelligent solutions.  
+I love solving problems, learning new technologies and turning ideas into real-world projects.
 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaAboElfadl&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+---
+
+# 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+
+---
+
+# ⚒️ Technologies
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlaaAboElfadl&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaAboElfadl&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning, Keep Building, Keep Growing. ✨
+
+</div>
