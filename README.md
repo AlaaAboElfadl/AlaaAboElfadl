@@ -27,7 +27,7 @@
 
 # Alaa Abo Elfadl
 
-### AI Student | Machine Learning Enthusiast | Tech Explorer
+## AI Student | Machine Learning Enthusiast | Tech Explorer
 
 <br>
 
@@ -49,25 +49,23 @@
 
 </div>
 
----
 
-# 👨‍💻 About Me
+ About Me
 
-AI Student passionate about Machine Learning, Deep Learning and building intelligent solutions.  
-I love solving problems, learning new technologies and turning ideas into real-world projects.
+AI Student passionate about  ML | DL | Data scince and building intelligent solutions 
+and turning ideas into real-world projects.
 
----
 
-# 💻 Languages
+Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
----
 
-# ⚒️ Technologies
+
+ Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
@@ -76,7 +74,7 @@ I love solving problems, learning new technologies and turning ideas into real-w
 
 ---
 
-# 📊 GitHub Stats
+ GitHub Stats
 
 <div align="center">
 
@@ -90,6 +88,5 @@ I love solving problems, learning new technologies and turning ideas into real-w
 
 <div align="center">
 
-### ✨ Keep Learning, Keep Building, Keep Growing. ✨
 
 </div>
