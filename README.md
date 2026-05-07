@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,25:0f0f0f,50:1a1a40,75:4B0082,100:00BFFF&text=Alaa%20Abo%20Elfadl&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20|%20Machine%20Learning%20Enthusiast%20|%20Tech%20Explorer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://raw.githubusercontent.com/AlaaAboElfadl/AlaaAboElfadl/main/image.png"/>
 
 <br><br>
 
@@ -28,26 +29,37 @@
 
 ---
 
- About Me
+# 👨‍💻 About Me
 
 AI Student passionate about ML | DL | Data Science and building intelligent solutions and turning ideas into real-world projects.
 
 ---
 
-Languages
+# 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
 ---
 
-Technologies
+# ⚒️ Technologies
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch) ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
 
- GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,7 +69,10 @@ Technologies
 
 </div>
 
+---
 
 <div align="center">
+
+### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 </div>
