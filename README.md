@@ -29,8 +29,8 @@
 
  About Me
 
-AI Student passionate about Machine Learning, Deep Learning and building intelligent solutions.  
-I love solving problems, learning new technologies and turning ideas into real-world projects.
+AI Student passionate about ML | DL | Data scince  and building intelligent solutions
+and turning ideas into real-world projects.
 
 
  Languages
