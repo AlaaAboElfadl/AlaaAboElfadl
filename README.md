@@ -27,13 +27,13 @@
 </p>
 
 
-#  About Me
+ About Me
 
 AI Student passionate about Machine Learning, Deep Learning and building intelligent solutions.  
 I love solving problems, learning new technologies and turning ideas into real-world projects.
 
 
-# Languages
+ Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -41,7 +41,7 @@ I love solving problems, learning new technologies and turning ideas into real-w
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
 
-# Technologies
+ Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
@@ -49,7 +49,7 @@ I love solving problems, learning new technologies and turning ideas into real-w
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,6 @@ I love solving problems, learning new technologies and turning ideas into real-w
 
 </div>
 
----
 
 <div align="center">
 
