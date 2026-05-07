@@ -1,4 +1,3 @@
-```md id="zqg3t9"
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/AlaaAboElfadl)
 
 <h1 align="center">Alaa Abo Elfadl</h1>
@@ -64,4 +63,3 @@
 
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaAboElfadl&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
-```
