@@ -28,13 +28,6 @@
 </p>
 
 
-
----
-
- About Me
-
-AI Student passionate about ML | DL | Data Science and building intelligent solutions and turning ideas into real-world projects.
-
 ---
 
 Languages
