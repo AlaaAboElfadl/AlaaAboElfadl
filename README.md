@@ -24,8 +24,10 @@
 </div>
 
 <p align="center">
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7A5CFA&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;AI+Developer;Tech+Explorer"/>
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7A5CFA&center=true&vCenter=true&width=600&lines=AI+Developer;ML+%26+Data+Science+Engineer;Tech+Explorer"/>
 </p>
+```
+
 
 ---
 
