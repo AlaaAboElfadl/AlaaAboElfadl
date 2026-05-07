@@ -38,9 +38,9 @@ Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
----
 
-# ⚒️ Technologies
+
+Technologies
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
 
@@ -50,9 +50,8 @@ Languages
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
----
 
-# 📊 GitHub Stats
+ GitHub Stats
 
 <div align="center">
 
@@ -64,7 +63,5 @@ Languages
 
 
 <div align="center">
-
-### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 </div>
